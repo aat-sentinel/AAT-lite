@@ -1,1 +1,1 @@
-docker run -p 8080:4000 --rm --volume="%cd%:/srv/jekyll" -it jekyll/jekyll:4.0 bundle exec jekyll serve --incremental --watch -d _site
+docker run -p 4000:4000 --env JEKYLL_ENV=development --rm --volume="%cd%:/srv/jekyll" -it jekyll/jekyll:3.8 bash -c "jekyll serve --incremental --watch"

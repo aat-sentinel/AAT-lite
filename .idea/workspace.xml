@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b87585f4-5cf4-4492-8774-d709eba46272" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+    <list default="true" id="b87585f4-5cf4-4492-8774-d709eba46272" name="Default Changelist" comment="77">
+      <change afterPath="$PROJECT_DIR$/files/Sentinel-AAT-lite-User-Guide.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/navigation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/download.html" beforeDir="false" afterPath="$PROJECT_DIR$/download.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start-jekyll.bat" beforeDir="false" afterPath="$PROJECT_DIR$/start-jekyll.bat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,16 +31,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docker" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\error414\Documents\Copter\Tracker\web-github\docker" />
       <recent name="C:\Users\error414\Documents\Copter\Tracker\web-github" />
+      <recent name="C:\Users\error414\Documents\Copter\Tracker\web-github\docker" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\error414\Documents\Copter\Tracker\web-github\download" />
       <recent name="C:\Users\error414\Documents\Copter\Tracker\web-github" />
     </key>
   </component>
@@ -48,7 +54,10 @@
       <option name="presentableId" value="Default" />
       <updated>1607292795936</updated>
       <workItem from="1607292797451" duration="4091000" />
-      <workItem from="1607465817188" duration="9837000" />
+      <workItem from="1607465817188" duration="10677000" />
+      <workItem from="1607867284200" duration="599000" />
+      <workItem from="1608137312280" duration="628000" />
+      <workItem from="1609234413023" duration="3831000" />
     </task>
     <task id="LOCAL-00001" summary="77">
       <created>1607296014685</created>

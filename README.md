@@ -1,5 +1,5 @@
 # Flashing NOTES
 
-When flashing to 5.0.0, flashing will need to be completed twice to enable access to ELRS functionality for the first time.
+When upgrading to 5.0.0 from an earlier version, flashing will need to be completed twice to enable access to ELRS functionality for the first time.
 
-Turn off ESPNOW devices (ELRT TX) before flashing
+NOTE!: Turn off ESPNOW devices (ELRS TX) before flashing
